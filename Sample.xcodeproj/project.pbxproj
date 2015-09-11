@@ -156,6 +156,7 @@
 		E701A4261BA27C5000AADAB9 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0700;
 				LastUpgradeCheck = 0640;
 				ORGANIZATIONNAME = "綿岡晃輝";
 				TargetAttributes = {
@@ -409,6 +410,7 @@
 				E701A44F1BA27C5000AADAB9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E701A4501BA27C5000AADAB9 /* Build configuration list for PBXNativeTarget "SampleTests" */ = {
 			isa = XCConfigurationList;
@@ -417,6 +419,7 @@
 				E701A4521BA27C5000AADAB9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
